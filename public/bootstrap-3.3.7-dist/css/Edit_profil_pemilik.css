@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar-brand{
+	font-family: Rich;
+	font-size: 50px;
+}
+.bg-yellow{
+	background:#6B8E23;
+}
+.nav{
+	margin: auto;
+	text-align: center;
+	font-family: fantasy;
+	width: 100%;
+	font-size: 20px;
+}
+.navbar li{
+	font-family: Fish Grill;
+	font-size: 20px;
+}
+.nav ul li a{
+	display: block;
+	padding: 20px;
+	color: white;
+	text-decoration: none;
+}
+.page-footer{
+	font-family: Fish Grill;
+	color: white;
+	position: absolute;
+	width: 100%;
+	background-color: #6B8E23;
+}
+.page-footer h5{
+	font-size: 80px;
+	font-family: Rich;
+	color: white;
+}
+.page-footer h6{
+	font-size: 20px;
+	font-family: Fish Grill;
+	color: white;
+}
+.page-footer a{
+	color: white
+}
+.btn-custom{
+	background-color: #FFFACD;
+}
+.body{
+	margin-top: 
+}

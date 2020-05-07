@@ -1,0 +1,20 @@
+.page-footer{
+	font-family: Fish Grill;
+	color: white;
+	position: absolute;
+	width: 100%;
+	background-color: #6B8E23;
+}
+.page-footer h5{
+	font-size: 80px;
+	font-family: Rich;
+	color: white;
+}
+.page-footer h6{
+	font-size: 20px;
+	font-family: Fish Grill;
+	color: white;
+}
+.page-footer a{
+	color: white
+}
