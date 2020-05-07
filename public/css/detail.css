@@ -1,0 +1,69 @@
+.html{
+	position: relative;
+}
+.navbar{
+	background-color:#6B8E23;
+}
+.navbar-brand{
+	font-family:Rich; 
+	font-size: 50px;
+}
+.navbar li{
+	margin-right: 40px;
+	font-family: Fish Grill; 
+	font-size:20px;
+}
+.btn-custom{
+	background-color:#FFFACD; 
+
+}
+
+body{
+	margin-top: 50px;
+	background-color: #FFFACD;
+}
+.breadcrumb{
+	background-color: #FFFACD;
+	font-size: 20px; 
+}
+.head{
+	margin-bottom: 100px;
+}
+.dekos h2{
+	font-family: Fish Grill;
+	color:#6B8E23;
+}
+.dekos h4{
+	 font-family: Fish Grill; 
+	 font-size: 18px;
+	 color:#6B8E23;
+}
+.dropdown btn-custom{
+	background-color:#FFFACD; 
+
+}
+.dekos h5{
+	font-family: Fish Grill; 
+	 font-size: 18px;
+	 color:#FFFACD;
+}
+.page-footer{
+	font-family: Fish Grill;
+	color:white;
+	position: absolute;
+	width:100%;
+	background-color: #6B8E23;
+}
+.page-footer h5{
+	font-size:80px;
+	font-family: Rich; 
+	color:white;
+}
+.page-footer h6{
+	font-size:20px;
+	font-family: Fish Grill; 
+	color:white;
+}
+.page-footer a{
+	color: white;
+}

@@ -1,0 +1,29 @@
+body{
+	background-color:#FFFACD;
+}
+
+.from-masuk{
+	background:#6B8E23;
+	/*meletakkan form ke tengah*/
+	margin: 40px auto;
+	padding: 30px 20px;
+	font-family:Latha;
+}
+
+.regis h1{
+	text-align: center;
+	font-family: Rich; 
+	font-size: 60px;
+	color: white;
+}
+.tulisan_regis{
+	text-align: center;
+	margin-top: 30px;
+	font-family: Fish Grill;
+	color: white;
+	font-size: 20px;
+}
+.btn-custom{
+	color:#6B8E23;
+	background-color:#FFFACD; 
+}

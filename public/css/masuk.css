@@ -1,0 +1,45 @@
+body{
+	background-color: #FFFACD;
+}
+.nama_apk{
+	text-align: center;
+	font-family: Rich; 
+	font-size: 60px;
+}
+.from-masuk{
+	margin-top: 70px;
+	font-family: Fish Grill;
+	color: white;
+	font-size: 15px;
+}
+.tulisan_login{
+	text-align: center;
+	font-family:Fish Grill;
+	font-size:25px; 
+	color: white;
+}
+.from-masuk{
+	background:#6B8E23;
+	width: 350px;
+	/*meletakkan form ke tengah*/
+	margin: 40px auto;
+	padding: 80px 20px
+}
+	font-family: Fish Grill;
+	color: white;
+	font-size: 15px;
+}
+.label{
+	font-size: 11pt;
+}
+.btn-custom{
+	color:#6B8E23;
+	background-color:#FFFACD; 
+}
+.link1{
+		font-family:Fish Grill;
+	font-size:12px; 
+	color: white;
+		text-align: justify;
+}
+

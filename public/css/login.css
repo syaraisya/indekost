@@ -1,0 +1,118 @@
+.html{
+	position: relative;
+}
+.navbar{
+	background-color:#FFFACD;
+}
+.navbar-brand{
+	font-family:Rich; 
+	font-size: 50px;
+}
+.navbar li{
+	margin-right: 40px;
+	font-family: Fish Grill; 
+	font-size:20px;
+}
+.junbotron{
+	margin-top: 90px;
+}
+
+.jumbotron h1{
+	font-size:150px;
+	font-family:Rich; 
+	color:white;
+}
+
+.btn-custom { 
+  color:#6B8E23 ; 
+  background-color: white; 
+  border-color: none ; 
+} 
+
+.rekom hr{
+	width: 250px;
+	border-top: 5px solid #6B8E23;
+}
+.src{
+	margin-top: 20px;
+}
+.rekom{
+	margin-top: 25px;
+}
+
+.rekom h3{
+	font-family: Fish Grill; 
+	color: #FFFACD;
+	font-size:20px;
+}
+.thumbnail{
+	margin-top: 20px;
+}
+.pop hr{
+	color: white;
+	width: 250px;
+	border-top: 5px solid white;
+}
+.pop{
+	margin-top: 60px;
+	background: #6B8E23;
+}
+
+/* CSS for Lightbox */
+.imggallery{
+    height: 300px;
+    width:300px;
+}
+.pop h2{
+	margin-top: 50px;
+	font-family: Fish Grill; 
+	color: white; 
+	font-size:25px;
+}
+.pop p{
+	font-family: Fish Grill; 
+	color: white; 
+	font-size:25px;
+}
+.sekos{
+	margin-bottom: 80px;
+}
+.sekos h2{
+	margin-top: 80px;
+	font-family: Fish Grill; 
+	color: #6B8E23; 
+	font-size:25px;
+}
+.sekos hr{
+	width: 250px;
+	border-top: 5px solid #6B8E23;
+}
+.imggallery2{
+    height:380px;
+    width:600px;
+}
+.btn-lg btn-custom{
+	margin-top: 30px;
+}
+.page-footer{
+	font-family: Fish Grill;
+	color:white;
+	position: absolute;;
+	width:100%;
+	background-color: #6B8E23;
+}
+.page-footer h5{
+	font-size:80px;
+	font-family: Rich; 
+	color:white;
+}
+.page-footer h6{
+	font-size:20px;
+	font-family: Fish Grill; 
+	color:white;
+}
+.page-footer a{
+	color: white;
+}
+
+

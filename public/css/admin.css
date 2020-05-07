@@ -1,0 +1,26 @@
+.navbar-right{
+	margin-right: 80px;
+}
+.navbar-text{
+	font-family: Fish Grill;
+	font-size: 20px;
+
+}
+body{
+	margin-top: 50px;
+	background-color: #FFFACD;
+	color:#6B8E23;
+}
+.head h1{
+	font-family:Rich; 
+	font-size: 80px;
+	text-align: center;
+}
+.h2{
+	font-family: fish Grill;
+}
+
+.btn-custom{
+	background-color:#6B8E23;
+	color: #FFFACD;
+}
